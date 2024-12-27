@@ -85,9 +85,6 @@ The *Exploring World Stock Prices with Machine Learning* project aims to predict
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with your suggestions or improvements.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - Thanks to Kaggle for providing the dataset.
 - Special thanks to Dr. Reza Jafari for guidance and support throughout the project.
